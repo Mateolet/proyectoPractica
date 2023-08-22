@@ -1,0 +1,5 @@
+C:\Users\Myr\Documents\PracticaProfesional\PracticaProfesional1\bin\PracticaProfesional1.dll
+C:\Users\Myr\Documents\PracticaProfesional\PracticaProfesional1\bin\PracticaProfesional1.pdb
+C:\Users\Myr\Documents\PracticaProfesional\PracticaProfesional1\obj\Debug\PracticaProfesional1.csprojResolveAssemblyReference.cache
+C:\Users\Myr\Documents\PracticaProfesional\PracticaProfesional1\obj\Debug\PracticaProfesional1.dll
+C:\Users\Myr\Documents\PracticaProfesional\PracticaProfesional1\obj\Debug\PracticaProfesional1.pdb
